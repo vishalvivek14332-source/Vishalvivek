@@ -5,4 +5,4 @@
 - 🎓 BTech CSE Student
 - 🤖 Interested in Machine Learning
 - 🌱 Currently learning AI and IoT
-- 📫 Reach me at: your_email@gmail.com
+- 📫 Reach me at: vishalvivek14332@gmail.com

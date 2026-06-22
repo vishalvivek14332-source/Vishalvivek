@@ -38,7 +38,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,java" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js" />
 </p>
 
 ### AI & Machine Learning

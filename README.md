@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E3A8A,100:7C3AED&text=Transforming%20Ideas%20Into%20Intelligent%20Solutions&fontColor=FFFFFF&fontSize=38&animation=twinkling&fontAlignY=50" />
+ <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/9586c6fa-686c-4f87-9b1f-132b46322499.gif" width="100%" alt="pixel-art-readme-gifs">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vishal Vivek</h1>

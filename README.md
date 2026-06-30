@@ -1,42 +1,35 @@
-# Hi 👋, I'm Vishal Vivek
+<p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/9586c6fa-686c-4f87-9b1f-132b46322499.gif" width="100%" alt="pixel-art-readme-gifs">
+</p>
 
-### AI & Machine Learning Enthusiast | BTech CSE Student
+<h1 align="center">Hi 👋, I'm Vishal Vivek</h1>
 
-I'm passionate about Artificial Intelligence, Machine Learning, and Computer Vision. I enjoy building software that solves real-world problems and continuously learning new technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;BTech+CSE+Student;Learning+AI+ML+%26+IoT;Building+Real-World+Projects;Future+AI+Engineer" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/vishalvivek14332-source">
+    <img src="https://img.shields.io/github/followers/vishalvivek14332-source?label=Followers&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=vishalvivek14332-source&style=for-the-badge" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BTech Computer Science & Engineering Student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 👁️ Exploring Computer Vision and Deep Learning
-- 💻 Building projects using Python and Web Technologies
-- 🌱 Always learning and improving my skills
-- 📍 Kerala, India
+🎓 BTech Computer Science & Engineering Student
 
----
+🤖 Passionate about Artificial Intelligence and Machine Learning
 
-## 🚀 Featured Projects
+🌱 Currently learning AI, Machine Learning, Deep Learning and IoT
 
-### 🤟 Sign Language to Text & Speech System
-An AI-powered application that recognizes sign language gestures using Computer Vision and converts them into text and speech.
+💡 Interested in Computer Vision, Intelligent Systems and Real-World Problem Solving
 
-**Tech Stack:** Python, OpenCV, TensorFlow, CVZone, Tkinter
+🚀 Building innovative software and AI-powered applications
 
----
-
-### ☕ Digital Coffee Shop Menu
-A responsive digital menu website built for a coffee shop with a clean and user-friendly interface.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
----
-
-### 🤖 Machine Learning Projects
-A collection of projects exploring machine learning concepts including prediction, classification, and intelligent automation.
-
-**Tech Stack:** Python, TensorFlow, NumPy
+📍 Kerala, India
 
 ---
 
@@ -67,36 +60,57 @@ A collection of projects exploring machine learning concepts including predictio
 
 ---
 
-## 🎯 Currently Learning
+## 🚀 Featured Projects
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Python Development
-- Software Development Best Practices
+### 🤟 Sign Language to Text & Speech System
+An AI-powered application that recognizes sign language gestures using Computer Vision and converts them into text and speech.
+
+**Tech Stack:** Python, OpenCV, TensorFlow, CVZone, Tkinter
 
 ---
 
-## 📊 GitHub Stats
+### ☕ Digital Coffee Shop Menu
+A responsive digital menu website built for a coffee shop with a clean and user-friendly interface.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+---
+
+### 🤖 Machine Learning Projects
+A collection of projects exploring machine learning concepts including prediction, classification, and intelligent automation.
+
+**Tech Stack:** Python, TensorFlow, NumPy
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishalvivek14332-source&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvivek14332-source&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vishalvivek14332-source&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalvivek14332-source&theme=github-dark-blue&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishalvivek14332-source&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvivek14332-source&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishalvivek14332-source/vishalvivek14332-source/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/vishalvivek14332-source">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
@@ -112,6 +126,8 @@ A collection of projects exploring machine learning concepts including predictio
 
 ---
 
+<h3 align="center">⭐ Always Learning • Always Building • Always Improving ⭐</h3>
+
 <p align="center">
-  <b>💡 "Always Learning • Always Building • Always Improving"</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer" />
 </p>
